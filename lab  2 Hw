@@ -26,7 +26,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingConstants;
 
-public class ScreenSaver extends JApplet implements Runnable {
+public class ScreenSaver extends JApplet implements Runnable { ///sdlkdlskmcllsm
 
 	final int MAXOBJECTS = 20; // maximum number of objects to be drawn
 	final int XLEFTMOST = 0; // left most x-coordinate of the screen
